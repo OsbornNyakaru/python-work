@@ -1,4 +1,5 @@
-# Creating an empty list called my_list
+#Work done by Osborn Nyakaru 
+#Creating an empty list called my_list
 my_list = []
 
 # Appending the elements to my_list: 10, 20, 30, and 40
