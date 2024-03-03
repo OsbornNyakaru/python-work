@@ -15,7 +15,7 @@ my_list.insert(1, 15)
 my_list.extend([50, 60, 70])
 
 # Removing last element from my_list
-my_list.pop()
+my_list.pop(7)
 
 # Sorting in ascending order
 my_list.sort()
